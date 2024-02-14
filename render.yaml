@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yukikunn
+    name: sugar-conan
     env: python
     region: Oregon
     plan: free
